@@ -1,0 +1,24 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "A custom boilerplate featuring React, Webpack, and the most basic features I like to use when building a React App from the ground up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneallantaylor/react-boilerplate.git"
+  },
+  "keywords": [
+    "React",
+    "Webpack",
+    "Node"
+  ],
+  "author": "Shane Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaneallantaylor/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/shaneallantaylor/react-boilerplate#readme"
+}
